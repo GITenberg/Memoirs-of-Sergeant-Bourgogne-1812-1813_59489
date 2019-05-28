@@ -1,5 +1,8 @@
 _repo: Memoirs-of-Sergeant-Bourgogne-1812-1813_59489
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59489-h/images/cover.jpg
 creator:
   author:
     agent_name: Bourgogne, Adrien Jean Baptiste François
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '39595'
     url: http://www.gutenberg.org/2009/agents/39595
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59489#Memoirs-of-Sergeant-Bourgogne-1812-1813
 gutenberg_issued: '2019-05-12'
 gutenberg_type: Text
 identifiers:
