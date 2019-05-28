@@ -1,0 +1,26 @@
+_repo: Memoirs-of-Sergeant-Bourgogne-1812-1813_59489
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bourgogne, Adrien Jean Baptiste François
+    gutenberg_agent_id: '50476'
+    url: http://www.gutenberg.org/2009/agents/50476
+  editor:
+    agent_name: Cottin, Paul
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '39595'
+    url: http://www.gutenberg.org/2009/agents/39595
+description: ''
+gutenberg_issued: '2019-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Memoirs of Sergeant Bourgogne, 1812-1813
+url: http://www.gutenberg.org/ebooks/59489
